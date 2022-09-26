@@ -1,0 +1,16 @@
+word
+woman
+boy
+girl
+dog
+cat
+and
+man
+father
+mother
+children
+son
+grandmother
+grandfather
+watermelon
+banana

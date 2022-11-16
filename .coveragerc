@@ -1,0 +1,6 @@
+[run]
+source = ./tdd
+
+[report]
+exclude_lines =
+    def __str__
